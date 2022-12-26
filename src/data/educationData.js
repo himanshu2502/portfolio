@@ -5,14 +5,14 @@ export const educationData = [
         course: 'Bachelor Degree',
         startYear: '2019',
         endYear: 'Present',
-        Score : '81.5%'
+        
     },
     {
         id: 2,
         institution: 'Morition Public School',
         course: 'Higher Secondary School',
-        startYear: '2018',
-        endYear: '2020'
+        startYear: '2017',
+        endYear: '2018'
     },
     {
         id: 3,
