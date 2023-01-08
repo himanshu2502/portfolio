@@ -22,7 +22,7 @@ export const projectsData = [
         id: 2,
         projectName: 'Face Mask Recognition Software',
         projectDesc: 'Face Mask Recognition Software',
-        tags: [Python, AI and ML],
+        tags: [Python, AIML],
         code: 'https://github.com/adarsh-2906',
         demo: 'https://github.com/adarsh-2906',
         image: seven
@@ -30,8 +30,7 @@ export const projectsData = [
     {
         id: 3,
         projectName: 'Word Count Visualizer',
-        projectDesc: 'Implemented an showed the working of Zipf’s Law & Heap’s Law for scrapping the entered
-        Text in the form of Graph. Implemented Graph JS in a Web App.',
+        projectDesc: 'Implemented an showed the working of Zipf’s Law & Heap’s Law for scrapping the enteredText in the form of Graph. Implemented Graph JS in a Web App.',
         tags: [HTML/CSS, Graph.Js],
         code: 'https://github.com/adarsh-2906',
         demo: 'https://github.com/adarsh-2906',
