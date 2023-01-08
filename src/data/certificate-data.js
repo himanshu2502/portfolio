@@ -86,4 +86,4 @@ export const certificateData = [
   // //   image: certificate4,
   // //   link: "https://www.linkedin.com/learning/certificates/d43d60fba3892a79f0ddd18a574fe4f97a9c89e52bc98734dd3cf8ebe3f300e8",
   // // },
-];
+]
