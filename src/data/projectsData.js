@@ -14,8 +14,8 @@ export const projectsData = [
         projectName: 'Ayla Networks',
         projectDesc: 'This project about Simplifying the Development of Smart Home & IoT Solutions.',
         tags: ['React', 'SAAS', 'React Bootstrap'],
-        code: '',
-        demo: 'https://www.aylanetworks.com/',
+        code: 'https://github.com/adarsh-2906',
+        demo: 'https://github.com/adarsh-2906',
         image: six
     },
     {
@@ -23,8 +23,8 @@ export const projectsData = [
         projectName: 'Jewelry Niche',
         projectDesc: 'This project is a Jewelry shop, Customer can be buy product and manage them and make payment.',
         tags: ['React', 'Express', 'Material Ui'],
-        code: 'https://github.com/said7388/jewelry-niche',
-        demo: 'https://pandora-web.netlify.app/',
+        code: 'https://github.com/adarsh-2906',
+        demo: 'https://github.com/adarsh-2906',
         image: seven
     },
     {
