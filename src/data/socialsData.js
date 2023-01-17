@@ -3,5 +3,5 @@ export const socialsData = {
     facebook: 'https://www.facebook.com/adarshnagvanshi/',
     linkedIn: 'https://www.linkedin.com/in/adarshsoni29/',
     twitter : 'https://www.twitter.com',
-    mail: 'adarshsoni2906@gmail.com',
+    mail: 'adarshsoni2906@gmail.com'
 }

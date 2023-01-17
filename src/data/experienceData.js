@@ -19,5 +19,5 @@ export const experienceData = [
         jobtitle: 'Self Learning',
         startYear: '2019',
         endYear: 'Present'
-    },
+    }
 ]

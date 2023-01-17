@@ -49,7 +49,7 @@ export const certificateData = [
     title: "R Basic",
     image: certificate6,
     link: "https://i.ibb.co/QCK9bWd/download.png",
-  },
+  }
   // {
   //   id: "12",
   //   title: "Complete web development with Programming hero",
