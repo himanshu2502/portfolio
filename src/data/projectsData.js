@@ -13,7 +13,7 @@ export const projectsData = [
         id: 1,
         projectName: 'Blogger Hub',
         projectDesc: 'Blogging Website with full CRUD functionality with Authentication and Authorization.',
-        tags: ['HTML','CSS', 'JavaScript', 'bootstrap'],
+        tags: [HTML,CSS, JavaScript, bootstrap],
         code: 'https://github.com/adarsh-2906',
         demo: 'https://github.com/adarsh-2906',
         image: six
@@ -22,7 +22,7 @@ export const projectsData = [
         id: 2,
         projectName: 'Face Mask Recognition Software',
         projectDesc: 'Face Mask Recognition Software',
-        tags: ['Python', 'AIML'],
+        tags: [Python, AIML],
         code: 'https://github.com/adarsh-2906',
         demo: 'https://github.com/adarsh-2906',
         image: seven
@@ -31,7 +31,7 @@ export const projectsData = [
         id: 3,
         projectName: 'Word Count Visualizer',
         projectDesc: 'Implemented an showed the working of Zipf’s Law & Heap’s Law for scrapping the enteredText in the form of Graph. Implemented Graph JS in a Web App.',
-        tags: ['HTML','CSS', 'Graph.Js'],
+        tags: [HTML,CSS, Graph.Js],
         code: 'https://github.com/adarsh-2906',
         demo: 'https://github.com/adarsh-2906',
         image: eight
