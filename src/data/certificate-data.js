@@ -1,12 +1,12 @@
 // import certificate1 from "../assets/certificate/certificate01.jpg";
-import certificate2 from "../assets/certificate/certificate02.jpg";
+import certificate2 from "../assets/certificate/certificate02.jpeg";
 // import certificate3 from "../assets/certificate/certificate03.png";
 // import certificate4 from "../assets/certificate/certificate04.png";
-import certificate5 from "../assets/certificate/certificate05.jpg";
-import certificate6 from "../assets/certificate/certificate06.png";
-import certificate7 from "../assets/certificate/certificate07.jpg";
-import certificate8 from "../assets/certificate/certificate08.png";
-import certificate9 from "../assets/certificate/certificate09.png";
+import certificate5 from "../assets/certificate/certificate05.jpeg";
+//import certificate6 from "../assets/certificate/certificate06.png";
+import certificate7 from "../assets/certificate/certificate07.jpeg";
+import certificate8 from "../assets/certificate/certificate08.jpg";
+//import certificate9 from "../assets/certificate/certificate09.png";
 // import certificate10 from "../assets/certificate/certificate10.png";
 // import certificate11 from "../assets/certificate/certificate11.jpg";
 // import certificate12 from "../assets/certificate/certificate12.jpg";
@@ -14,41 +14,29 @@ import certificate9 from "../assets/certificate/certificate09.png";
 export const certificateData = [
   {
     id: "02",
-    title: "Microsoft Azure-900 ",
+    title: "Tathastu DSA Scholar",
     image: certificate2,
-    link: "https://i.ibb.co/ZGVZXyX/azure-certificate.jpg",
+    link: "https://i.ibb.co/gjLBrjF/Whats-App-Image-2023-01-17-at-4-39-06-PM.jpg",
   },
 
   {
     id: "05",
-    title: "GWOC",
+    title: "JAVA BASIC",
     image: certificate5,
-    link: "https://i.ibb.co/Lr5v252/GWOC-PARTICIPATION-CERTIFICATE-1.jpg",
+    link: "https://i.ibb.co/s6M6G1B/Whats-App-Image-2023-01-17-at-4-39-55-PM.jpg",
   },
 
   {
     id: "07",
-    title: "Web Developer",
+    title: "Data Management and visualisation",
     image: certificate7,
-    link: "https://i.ibb.co/HHPMmgj/UC-e7bff9e2-8b6a-42e4-99ab-346306b9d5e5.jpg",
+    link: "https://i.ibb.co/ypxBnM3/Whats-App-Image-2023-01-17-at-4-40-47-PM.jpg",
   },
   {
     id: "08",
-    title: "Problem Solving Basic",
-    image: certificate8,
-    link: "https://i.ibb.co/t3HxQ2R/download-1.png",
-  },
-  {
-    id: "09",
-    title: "Problem Solving Intermediate",
-    image: certificate9,
-    link: "https://i.ibb.co/W3Sc5yw/download-2.png",
-  },
-  {
-    id: "06",
     title: "R Basic",
-    image: certificate6,
-    link: "https://i.ibb.co/QCK9bWd/download.png",
+    image: certificate8,
+    link: "https://i.ibb.co/Z6g1Knv/Screenshot-2021-11-11-13-46-36-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
   }
   // {
   //   id: "12",
