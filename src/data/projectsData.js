@@ -14,26 +14,26 @@ export const projectsData = [
         projectName: 'Blogger Hub',
         projectDesc: 'Blogging Website with full CRUD functionality with Authentication and Authorization.',
         tags: ['HTML','CSS', 'JavaScript',' bootstrap'],
-        code: 'https://github.com/adarsh-2906',
-        demo: 'https://github.com/adarsh-2906',
+        code: 'https://drive.google.com/file/d/179_TXFKKgyMcooRLD-WuHhYyFjPSyX-I/view?usp=drivesdk',
+        demo: 'https://drive.google.com/file/d/179_TXFKKgyMcooRLD-WuHhYyFjPSyX-I/view?usp=drivesdk',
         image: six
     },
     {
         id: 2,
-        projectName: 'Face Mask Recognition Software',
-        projectDesc: 'Face Mask Recognition Software',
+        projectName: 'Daily Mart India',
+        projectDesc: 'Daily Mart India',
         tags: ['Python', 'AIML'],
-        code: 'https://github.com/adarsh-2906',
-        demo: 'https://github.com/adarsh-2906',
+        code: 'https://drive.google.com/file/d/1Rst_x81GwwlTep6eSWBmSwqTi-02rGSc/view?usp=drivesdk',
+        demo: 'https://drive.google.com/file/d/1Rst_x81GwwlTep6eSWBmSwqTi-02rGSc/view?usp=drivesdk',
         image: seven
     },
     {
         id: 3,
-        projectName: 'Word Count Visualizer',
-        projectDesc: 'Implemented an showed the working of Zipf’s Law & Heap’s Law for scrapping the enteredText in the form of Graph. Implemented Graph JS in a Web App.',
+        projectName: 'Safar',
+        projectDesc:  'This project about making the travel easier.',
         tags: ['HTML','CSS',' Graph.Js'],
-        code: 'https://github.com/adarsh-2906',
-        demo: 'https://github.com/adarsh-2906',
+        code: 'https://github.com/harsh3125/Safar_1.git',
+        demo: 'https://github.com/harsh3125/Safar_1.git',
         image: eight
     }
     // {
