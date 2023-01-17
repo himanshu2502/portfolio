@@ -9,16 +9,16 @@ export const educationData = [
     },
     {
         id: 2,
-        institution: 'Morition Public School',
+        institution: 'KV no. 3,9BRD,AFS Pune Public School',
         course: 'Higher Secondary School',
-        startYear: '2017',
-        endYear: '2018'
+        startYear: '2018',
+        endYear: '2019'
     },
     {
         id: 3,
-        institution: 'Morition Public School',
+        institution: 'KV Hasimara,West Bengal Public School',
         course: 'Secondary School',
-        startYear: '2015',
-        endYear: '2016'
+        startYear: '2016',
+        endYear: '2017'
     }
 ]
