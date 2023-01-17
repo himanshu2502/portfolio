@@ -35,7 +35,7 @@ export const projectsData = [
         code: 'https://github.com/adarsh-2906',
         demo: 'https://github.com/adarsh-2906',
         image: eight
-    },
+    }
     // {
     //     id: 4,
     //     projectName: 'Android Patient Tracker',
